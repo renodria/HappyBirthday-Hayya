@@ -1,4 +1,4 @@
-##  TUGAS 1
+##  Project 1
 
 ### Wish someone special happy birthday in a special way.
 
