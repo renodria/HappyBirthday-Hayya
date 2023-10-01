@@ -1,4 +1,4 @@
-##  Project 1
+##  Happy Birthday To YOU
 
 ### Wish someone special happy birthday in a special way.
 
